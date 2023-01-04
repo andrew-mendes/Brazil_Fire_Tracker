@@ -360,6 +360,7 @@ ___
 - Python packages (included in requirements.txt):
   - Django 4.0.1: `pip install Django==4.0.1`
   - requests: `sudo pip3 install requests`
+  - decouple `pip install decouple`
 
 <br>
 
