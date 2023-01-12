@@ -414,7 +414,7 @@ ___
 
 **requirements.txt**: text file containing the python package requirements for installation of the application
 
-**fires_sample.geojson** - a data sample with fire outbreaks data from Dec 1, 2022 to Dec 23, 2022 to be used for testing the Admin _collect from file_ feature
+**fires_sample.geojson**: a data sample with fire outbreaks data from Dec 1, 2022 to Dec 23, 2022 to be used for testing the Admin _collect from file_ feature
 
 +default Django files
 
