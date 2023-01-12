@@ -26,7 +26,7 @@ ___
 
 <!--ts-->
 - [Introduction](#introduction)
-- [Video Demo](#video-demo)
+- [Demo](#demo)
 - [Features](#features)
 - [Distinctiveness and Complexity](#distinctiveness-and-complexity)
   - [Feeding the database through the Admin View](#feeding-the-database-through-the-admin-view)
@@ -56,9 +56,10 @@ ___
 
 ___
 
-## Video Demo
+## Demo
 
-[Link](https://youtu.be/T-61iMFjbik)
+[Video](https://youtu.be/T-61iMFjbik)
+[Live Test (visitor UI)](https://andrewmendes.pythonanywhere.com/)
 
 <br>
 
