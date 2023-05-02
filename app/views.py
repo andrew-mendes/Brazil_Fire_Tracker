@@ -130,7 +130,7 @@ def data_collect(request):
     # OPTION 1: GEOJSON file upload
     # - This option is to be used in case INPE's website is unavailable
     # or in order to populate the DB with data not in the last 24h.
-    # - The file can be request the desired period data at the following link:
+    # - The file with data from the desired time range can be requested at the following link:
     # https://queimadas.dgi.inpe.br/queimadas/bdqueimadas#exportar-dados
     # - Make sure to check all inputs correctly in order to filter the data.
     process_start = datetime.now()
